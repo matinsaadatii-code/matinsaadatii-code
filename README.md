@@ -28,7 +28,6 @@ I also build automations with **n8n** — partly to move faster on my own work, 
 ---
 
 ### Where I'm at right now
-```text
 Python fundamentals   ████████████░░░░░░░░   Learning
 OOP & clean structure ███████░░░░░░░░░░░░░░   In progress
 Algorithms & DS       ████░░░░░░░░░░░░░░░░░░   Starting
@@ -80,12 +79,3 @@ I'm always open to feedback, collaboration, or just talking about where AI is he
 
 <p align="center"><i>Ex web dev. Current beginner. Future AI engineer. Watch me get there.</i></p>
 
-
-چند نکته که خوبه بدونی:
-
-- **Theme:** همه‌جا `tokyonight` گذاشتم که dark و تمیزه. اگه خواستی عوضش کنی، `dracula`, `radical`, `github_dark` هم قشنگن.
-- **Skill bars:** دستی نوشتمشون توی code block چون واقعی‌ترن و اون حس "AI ساخته" رو نمیدن. هر وقت پیشرفت کردی، خودت خونه‌ها رو پر کن.
-- **Streak stats:** بعضی وقتا سرور herokuapp کنده. اگه لود نشد بگو نسخه جایگزین بدم.
-- **آخرین جمله** عمداً جسورانه‌ست — همون حس "این یارو داره جدی میره جلو" رو میده.
-
-می‌خوای typing effect یا رنگ‌ها رو با هویت بصری Matechs هماهنگ کنم؟
