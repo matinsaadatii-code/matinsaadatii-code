@@ -33,7 +33,6 @@ OOP & clean structure ███████░░░░░░░░░░░░�
 Algorithms & DS       ████░░░░░░░░░░░░░░░░░░   Starting
 APIs & automation     ██████░░░░░░░░░░░░░░░░   Hands-on with n8n
 Machine Learning      ██░░░░░░░░░░░░░░░░░░░░   Next stop
-
 I'm early. And I'm okay saying that out loud — because progress beats pretending.
 
 ---
@@ -78,4 +77,3 @@ I'm always open to feedback, collaboration, or just talking about where AI is he
 </p>
 
 <p align="center"><i>Ex web dev. Current beginner. Future AI engineer. Watch me get there.</i></p>
-
